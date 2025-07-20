@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I Create Youtube Video**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/naresh-vaishnav-251a65210/" target="blank">
+
 <p align="left">
 </p>
 
