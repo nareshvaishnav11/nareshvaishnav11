@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naresh Vaishnav</h1>
 <h3 align="center">A passionate Cloud DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Red Hat OpenShift**
-
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
 - 🤝 I’m looking for help with **Cloud DevOps**
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **Cloud DevOps**
 
-- 📫 How to reach me **nareshvclouddevops@gmail.com**
+- 📫 How to reach me **nareshshyamlalvaishnav@gmail.com**
 
 - ⚡ Fun fact **I Create Youtube Video**
 
